@@ -87,9 +87,32 @@ The main skill stays fast to load. Pull in the guide that matches the work:
 
 **Small and reversible beats clever and sprawling.** Preserve working behavior outside the requested scope.
 
-## Benchmark
+## How it compares
 
-See the [competitor benchmark](BENCHMARK.md) for a capability comparison, adoption signals, gaps, and the recommended upgrade path.
+Product Craft is deliberately smaller than the big skill ecosystems, but it covers a broader end-to-end product loop than most specialist skills.
+
+| Capability | Product Craft | UI UX Pro Max | Anthropic Skills | Addy Agent Skills | Claude Skills |
+| --- | :---: | :---: | :---: | :---: | :---: |
+| Product framing + scope control | **Strong** | Partial | Partial | Strong | Strong |
+| UI/UX direction | **Strong** | **Strong** | Partial | Partial | Strong |
+| Web + mobile engineering | **Strong** | Strong | Partial | **Strong** | **Strong** |
+| QA + evidence-based review | **Strong** | Partial | Partial | **Strong** | **Strong** |
+| Release + rollback thinking | **Strong** | Partial | Partial | **Strong** | Strong |
+| One portable `SKILL.md` | **Strong** | Strong | Strong | Strong | Strong |
+| Multi-agent install | Gap | **Strong** | **Strong** | **Strong** | **Strong** |
+| CLI / plugin marketplace | Gap | Strong | **Strong** | **Strong** | **Strong** |
+| Demos + worked examples | Gap | **Strong** | Partial | Partial | Partial |
+| Releases + changelog | Gap | **Strong** | Strong | **Strong** | **Strong** |
+
+### The honest takeaway
+
+**Product Craft wins on integrated judgment.** It is a compact operating system for taking an ambiguous product request through design, implementation, QA, and shipping.
+
+**Competitors win on distribution.** [UI UX Pro Max](https://github.com/nextlevelbuilder/ui-ux-pro-max-skill), [Anthropic Skills](https://github.com/anthropics/skills), [Addy Agent Skills](https://github.com/addyosmani/agent-skills), and [Claude Skills](https://github.com/alirezarezvani/claude-skills) have stronger install paths, releases, examples, and community loops.
+
+**Our next move:** add an MIT license, compatibility matrix, one-command install, three before/after examples, and a v1.0 release. Those upgrades turn a good package into a credible product.
+
+[Read the full benchmark →](BENCHMARK.md)
 
 ## Validation
 
