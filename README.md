@@ -87,6 +87,10 @@ The main skill stays fast to load. Pull in the guide that matches the work:
 
 **Small and reversible beats clever and sprawling.** Preserve working behavior outside the requested scope.
 
+## Benchmark
+
+See the [competitor benchmark](BENCHMARK.md) for a capability comparison, adoption signals, gaps, and the recommended upgrade path.
+
 ## Validation
 
 Run the included package check:
